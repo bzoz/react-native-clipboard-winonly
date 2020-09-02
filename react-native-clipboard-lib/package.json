@@ -1,0 +1,41 @@
+{
+  "name": "react-native-clipboard-lib",
+  "title": "React Native Clipboard Lib",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-clipboard-lib.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-clipboard-lib.git",
+    "baseUrl": "https://github.com/github_account/react-native-clipboard-lib"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "yourname@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.11.0",
+    "react-native": "^0.62.0-0",
+    "react-native-windows": "^0.62.0-0"
+  },
+  "devDependencies": {
+    "react": "16.11.0",
+    "react-native": "^0.62.0-0"
+  }
+}
